@@ -16,17 +16,3 @@ Either manually run getnewips.sh or add it as a cronjob to do it all automaticly
 ![image](https://user-images.githubusercontent.com/50523899/105985584-ef8b1900-609b-11eb-8298-9d8d62efa7eb.png)
 
 
-
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-Attribution: kheraud on stackoverflow.com
